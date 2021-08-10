@@ -1,2 +1,2 @@
-# KaggleNotebooks
-My practice notebooks from tasks on Kaggle
+# Practice Notebooks
+My practice notebooks from tasks from various sources such as Kaggle, UCI, etc
